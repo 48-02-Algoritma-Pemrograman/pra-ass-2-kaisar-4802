@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Hitung{
 
     public static ArrayList<Integer> data = new ArrayList<>();
-
+    
     public static double rataRata(ArrayList<Integer>data){
         double total = 0;
         for (int i = 0; i < data.size(); i++) {
